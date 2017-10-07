@@ -27,7 +27,7 @@ Name: %scl_name
 Version: 0.0.2
 Release: 1%{?dist}
 License: GPLv2+
-Requires: %{scl_prefix}less
+Requires: %{scl_prefix}tomcat
 BuildRequires: scl-utils-build
 
 %description
