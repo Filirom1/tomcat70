@@ -24,7 +24,7 @@
 
 Summary: Package that installs %scl
 Name: %scl_name
-Version: 1
+Version: 0.0.1
 Release: 1%{?dist}
 License: GPLv2+
 Requires: %{scl_prefix}less
