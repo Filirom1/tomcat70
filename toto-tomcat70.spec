@@ -77,7 +77,7 @@ EOF
 mkdir -p %{buildroot}%{_mandir}/man7/
 #install -p -m 644 %{scl_name}.7 %{buildroot}%{_mandir}/man7/
 
-mkdir %{buildroot}/%{_scl_prefix}
+mkdir -p %{buildroot}/%{_scl_prefix}
 
 %files
 
