@@ -20,7 +20,6 @@
 %global nfsmountable 1
 
 %scl_package %scl
-%global _scl_prefix /opt/toto
 
 Summary: Package that installs %scl
 Name: %scl_name
